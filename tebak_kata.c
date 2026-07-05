@@ -232,7 +232,6 @@ void play_game(void) {
         scanf(" %c", &letter);
         letter = toupper(letter);
 
-        /* Validasi: jika input lebih dari 1 karakter, buang sisanya */
         {
             int extra = 0;
             int ch;
