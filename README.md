@@ -17,7 +17,7 @@ Program ditulis dalam standar ANSI C dan dapat dikompilasi menggunakan `gcc`.
 gcc -Wall -o tebak_kata "tebak kata kiro.c"
 ```
 
-Parameter -Wall digunakan untuk mengaktifkan semua peringatan guna memastikan kualitas kode.
+Parameter `-Wall` digunakan untuk mengaktifkan semua peringatan guna memastikan kualitas kode.
 
 ---
 
